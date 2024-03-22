@@ -1,5 +1,6 @@
-                                  ![developer_juhan](https://github.com/inkoreakim/inkoreakim/assets/159877362/0d5ef488-bfd1-49e4-8101-7d2830244b02)
-
+<div align="center">
+  <img src="https://github.com/inkoreakim/inkoreakim/assets/159877362/0d5ef488-bfd1-49e4-8101-7d2830244b02" />
+</div>
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
