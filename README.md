@@ -1,4 +1,4 @@
-### Hi there 👋
+<a href="https://goorme-green.tistory.com/" target="_blank"><img src="bloglovin"/></a>
 
 <!--
 **inkoreakim/inkoreakim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
