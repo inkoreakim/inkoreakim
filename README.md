@@ -10,7 +10,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/hibernate-#59666C.svg?style=for-the-badge&logo=hibernate-css&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Hibernate-#59666C?style=for-the-badge&logo=Hibernate-css&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
 </div>
 
