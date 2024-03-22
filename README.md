@@ -14,6 +14,26 @@
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
 </div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+&nbsp
+  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+&nbsp
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+&nbsp
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+&nbsp
+  <img src="https://img.shields.io/badge/mssql-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+&nbsp
+  <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge"/>
+&nbsp
+  <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white"/>
+&nbsp
+</div>
+
 <br>
 
 <div align="center">
