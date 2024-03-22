@@ -1,4 +1,4 @@
-![developer_juhan](https://github.com/inkoreakim/inkoreakim/assets/159877362/0d5ef488-bfd1-49e4-8101-7d2830244b02)
+                                  ![developer_juhan](https://github.com/inkoreakim/inkoreakim/assets/159877362/0d5ef488-bfd1-49e4-8101-7d2830244b02)
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
