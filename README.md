@@ -77,8 +77,8 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="[https://goorme-green.tistory.com](https://velog.io/@kjh7330/posts)">
-    <img src="https://img.shields.io/badge/tstory-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white"/>&nbsp
+  <a href="https://velog.io/@kjh7330/posts">
+    <img src="https://img.shields.io/badge/velog-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white"/>&nbsp
   </a>
   <a href="mailto:rlawngks007@gmail.com">
     <img
