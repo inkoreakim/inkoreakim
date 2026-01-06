@@ -23,6 +23,7 @@
 &nbsp
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 &nbsp
+  <img src="https://img.shields.io/badge/flutter-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 </div>
 
 <div align="center">
